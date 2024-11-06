@@ -15,11 +15,13 @@ Dataset yang digunakan : ([Dataset](https://drive.google.com/drive/folders/1E-GU
 Anda dapat menjalankan proyek ini langsung melalui Google Colab tanpa instalasi tambahan:
 
 1. Buka notebook proyek di Google Colab.
-2. Ikuti instruksi yang diberikan dalam notebook untuk memuat data dan menjalankan proses pelatihan.
-3. Lakukan prediksi pada data uji menggunakan model yang telah dilatih.
+2. Perhatikan letak penyimpanan dataset dan letak penyimpanan model terbaik.
+3. jalankan proses pelatihan.
+4. Lakukan prediksi pada data uji menggunakan model yang telah dilatih.
 
 ## Cara Penggunaan
 
 1. Unduh dan siapkan dataset dari sumber yang telah disebutkan.
-2. Jalankan notebook Colab untuk memproses data dan melatih model.
+2. Perhatikan letak penyimpanan dataset dan letak penyimpanan model terbaik.
+3. jalankan proses pelatihan.
 3. Gunakan model yang telah dilatih untuk melakukan prediksi pada data uji.
