@@ -8,6 +8,7 @@ Dataset yang digunakan dalam proyek ini diambil dari Kaggle ([Dataset Kaggle](ht
 
 Untuk memperkaya dataset pelatihan, kami juga menambahkan data dari DermNet ([Image Library DermNet](https://dermnetnz.org/image-library)) dan Google Image, sehingga dapat mendukung dan memperluas cakupan pelatihan model.
 
+Dataset yang digunakan : ([Dataset]([https://dermnetnz.org/image-library](https://drive.google.com/drive/folders/1E-GUnlG7FOssWxzrMuNSgYIpEqY1_smk?usp=sharing))) 
 ## Menjalankan Proyek di Google Colab
 
 Anda dapat menjalankan proyek ini langsung melalui Google Colab tanpa instalasi tambahan:
